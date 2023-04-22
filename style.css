@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body {
+    background-image: url('https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGFzayUyMG1hbmFnZXIlMjBiYWNrZ3JvdW5kJTIwaW1hZ2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60');
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: 1550px 780px; */
+    background-size: cover;
+}
+
+
+.main1{
+    height: 550px;
+}
+
+
+.container{
+    /* background-color: aqua; */
+    font-weight: 100px;
+    font-size: large;
+    margin: 110px 130px 400px 950px;
+    padding-left: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    border: 5px solid gray;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: lightcoral; */
+    background-image: url('https://images.unsplash.com/photo-1576158113840-43db9ff3ef09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJsdXVyZWQlMjBpbWFnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+}
+/* h1{
+    color: whitesmoke;
+} */
+.m1{
+    display: flex;
+    padding-top: 30px;
+}
+.m1 button{
+    margin-left: 20px;
+    padding: 5px 13px;
+    border-radius: 5px;
+}
+
+.m2{
+    display: flex;
+    padding-top: 20px;
+}
+.m2 button{
+    margin-left: 60px;
+    padding: 5px 13px;
+    border-radius: 5px;
+}
+
+.m3{
+    display: flex;
+    padding-top: 20px;
+}
+
+.m3 button{
+    margin-left: 93px;
+    padding: 5px 13px;
+    border-radius: 5px;
+}
+
+/* ------------------------------------------- */
+
+header{
+    /* background-color: aquamarine; */
+    
+    margin: 150px;
+    margin-left: 600px;
+}
+
+input{
+    padding: 8px 60px;
+}
+
+
+
+.task-list{
+    /* background-color: aliceblue; */
+    border-radius: 10px;
+    background-color: rgb(158, 154, 154);
+    margin-right: 300px;
+}
+
+main{
+    margin-left: 500px;
+} 
+
+.task-list h2{
+    padding-left: 300px;
+    font-size: 40px;
+}
+
+.task-list button{
+    padding: 5px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.task{
+    padding-left: 30px;
+    display: flex;
+}
+
+
+.actions{
+
+    margin-left: 50px;
+}
+
+
+
+.edit{
+    background-color: rgb(243, 135, 34);
+    border-radius: 10px;
+    color: whitesmoke;
+    
+}
+
+.delete{
+    background-color: rgb(249, 33, 33);
+    border-radius: 10px;
+    color: whitesmoke;
+}
+
+
+
+.btn{
+    margin: 20px 0px 0px 50px;
+    padding: 6px 10px ;
+    background-color: palegreen;
+}
